@@ -1,0 +1,30 @@
+@charset "UTF=8";
+
+html {
+  font-size: 100%;
+}
+body {
+  font-family: "Yu gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W5",
+  sans-serif;
+  line-height: 1.7;
+  color: #23171b;
+  background-color: #dcd3ba;
+}
+a {
+  text-decoration: none;
+}
+img {
+  max-width: 90%;
+}
+.em {
+  display: block;
+  text-align: center;
+  margin: 20%;
+  justify-content: center;
+}
+.em a {
+  color: #432;
+}
+.em a:hover {
+  color: #c65c57;
+}
