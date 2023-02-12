@@ -1,0 +1,170 @@
+@charset "UTF=8";
+
+html {
+  font-size: 100%;
+}
+body {
+  font-family: "Yu gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W5",
+  sans-serif;
+  line-height: 1.7;
+  color: #23171b;
+  background-color: #dcd3ba;
+}
+a {
+  text-decoration: none;
+}
+img {
+  max-width: 100%;
+}
+.logo {
+  width: 170px;
+  margin-top: 14px;
+}
+
+.main-nav {
+  display: flex;
+  font-size: 1.50rem;
+  text-transform: uppercase;
+  margin-top: 34px;
+  list-style: none;
+}
+.main-nav li {
+  margin-left: 36px;
+}
+.main-nav a {
+  color: #23171b;
+}
+.main-nav a:hover {
+  color: #cb305c;
+}
+header {
+  background-color: #dcd3ba;
+}
+.page-header {
+  display: flex;
+  justify-content: space-between;
+}
+.wrapper {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 4%;
+}
+
+.home-content {
+  text-align: center;
+  margin-top: 10%;
+}
+.home-content p {
+  font-size: 1.125rem;
+  margin: 10px 0 42px;
+
+}
+.page-title {
+  font-size: 5rem;
+  font-family: 'sans-serif';
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
+.button {
+  font-size: 1.375rem;
+  background: #517c85;
+  color: #faf2e5;
+  border-radius: 5px;
+  padding: 20px 32px;
+}
+
+.button:hover {
+  background: #c65c57;
+}
+
+.big-bg {
+  background-size: cover;
+  background-position: center top;
+}
+#contact {
+  background-image: url(../images/s41.jpg);
+  background-color: #dcd3ba;
+  background-blend-mode: color-burn;
+  background-blend-mode: overlay;
+  min-height: 90vh;
+}
+#contact .page-title {
+  text-transform: none;
+}
+.post-info {
+  position: relative;
+  padding-top: 4px;
+  margin-bottom: 40px;
+}
+article img {
+  width: 500px;
+  height: 500px;
+}
+article p {
+  font-size: 1.25rem;
+}
+
+article {
+  margin: 1% 2% 1% 2%;
+  border-top: 1px #c65c57 solid;
+  padding: 20px 0;
+}
+
+.is1 {
+  display: flex;
+  margin-bottom: 50px;
+}
+.is2 {
+  display: flex;
+  margin-bottom: 50px;
+  border-top: 1px #c65c57 dashed;
+  padding: 30px 0 ;
+}
+.is3 {
+  display: flex;
+  margin-bottom: 50px;
+  border-top: 1px #c65c57 dashed;
+  padding: 30px 0;
+}
+.is1 p {
+  margin: auto 0 auto 2%;
+}
+.is2 p {
+  margin: auto 2% auto 0;
+}
+.is3 p {
+  margin: auto 0 auto 2%;
+}
+span {
+  font-size: 2rem;
+}
+
+.mn {
+  text-align: center;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  font-size: 1.2rem;
+  background-color: #517c85;
+  color: #fff;
+  border-radius: 3px;
+  padding: 10px 28px;
+  margin-left: 46%;
+}
+
+.mn:hover {
+  background-color: #c65c57;
+}
+
+footer {
+  background: #8cbab8;
+  text-align: center;
+  margin-top: 5%;
+  padding: 30px 0 30px;
+  bottom: 0;
+}
+
+footer p {
+  color: black;
+  font-size: 1.1rem;
+}
