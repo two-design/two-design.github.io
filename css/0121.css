@@ -103,6 +103,7 @@ article {
 }
 .ee {
   height: 380px;
+  max-height: 380px;
 }
 blockquote {
   max-height: 380px;
