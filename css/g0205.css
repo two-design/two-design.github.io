@@ -1,0 +1,177 @@
+@charset "UTF=8";
+
+html {
+  font-size: 100%;
+}
+body {
+  font-family: "Yu gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W5",
+  sans-serif;
+  line-height: 1.7;
+  color: #23171b;
+  background-color: #dcd3ba;
+}
+a {
+  text-decoration: none;
+}
+img {
+  max-width: 100%;
+}
+.logo {
+  width: 170px;
+  margin-top: 14px;
+}
+
+.main-nav {
+  display: flex;
+  font-size: 1.50rem;
+  text-transform: uppercase;
+  margin-top: 34px;
+  list-style: none;
+}
+.main-nav li {
+  margin-left: 36px;
+}
+.main-nav a {
+  color: #e4dfef;
+}
+.main-nav a:hover {
+  color: #cb305c;
+}
+
+.page-header {
+  display: flex;
+  justify-content: space-between;
+}
+.wrapper {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 4%;
+}
+.big-bg {
+  background-size: cover;
+  background-position: center top;
+}
+#blog {
+  background-image: url(../images/ASMR.png);
+  height: 210px;
+  margin-bottom: 40px;
+}
+#blog .page-title {
+  text-align: center;
+}
+.page-title {
+  font-size: 3rem;
+  color: #faf2e5;
+}
+
+article {
+  width: 74%;
+  background-color: rgba(255, 255, 255, .3);
+  padding: 1% 1% 1% 1%;
+}
+aside {
+  width: 22%;
+  background-color: rgba(235, 235, 255, .4);
+  padding: 2px 2px 2px 2px;
+  margin-bottom: auto;
+}
+.blog-contents {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+.post-info {
+  position: relative;
+  padding-top: 4px;
+  margin-bottom: 40px;
+}
+.dds {
+  margin-left: 50%;
+  margin-bottom: 15px;
+}
+.post-date {
+  background: #8cbab8;
+  border-radius: 50%;
+  color: #fff;
+  width: 100px;
+  height: 100px;
+  font-size: 1.2rem;
+  text-align: center;
+  position: absolute;
+  top: 0;
+  padding-top: 10px;
+}
+.post-date span {
+  font-size: 1rem;
+  border-top: 1px rgba(255, 255, 255, .5) solid;
+  padding-top: 6px;
+  display: block;
+  width: 60%;
+  margin: 0 auto;
+}
+.post-title {
+  font-size: 2rem;
+  font-weight: normal;
+  margin-left: 100px;
+}
+article img {
+  margin-top: 3%;
+  margin-bottom: 2px;
+}
+article p {
+  margin-bottom: 1rem;
+}
+.sub-title {
+  font-size: 1.375rem;
+  padding: 0 8px 8px;
+  border-bottom: 2px #cb305c solid;
+  font-weight: normal;
+}
+aside p {
+  padding: 12px 10px;
+}
+.sub-menu {
+  margin-bottom: 60px;
+  list-style: none;
+  font-size: 1rem
+}
+.sub-menu li {
+  border-bottom: 1px #ee859a dotted;
+}
+.sub-menu a {
+  color: #432;
+  padding: 10px;
+  display: block;
+}
+.sub-menu a:hover {
+  color: #c65c57;
+}
+.sub-menu p {
+  margin-left: 25%;
+}
+.mokuzi{
+  display: flex;
+  justify-content: space-between;
+  margin: 50px 10% 50px 10%;
+}
+.mokuzi h4 {
+  color: #432;
+}
+.mokuzi h4:hover {
+  color: #c65c57;
+}
+
+
+
+
+footer {
+  background: #8cbab8;
+  text-align: center;
+  margin-top: 5%;
+  padding: 30px 0 30px;
+  bottom: 0;
+}
+footer p {
+  color: black;
+  font-size: 1.1rem;
+}
