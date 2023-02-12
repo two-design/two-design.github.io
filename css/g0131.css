@@ -1,0 +1,150 @@
+@charset "UTF=8";
+
+html {
+  font-size: 100%;
+}
+body {
+  font-family: "Yu gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W5",
+  sans-serif;
+  line-height: 1.7;
+  color: #23171b;
+  background-color: #dcd3ba;
+}
+a {
+  text-decoration: none;
+}
+img {
+  max-width: 100%;
+}
+.logo {
+  width: 170px;
+  margin-top: 14px;
+}
+
+.main-nav {
+  display: flex;
+  font-size: 1.50rem;
+  text-transform: uppercase;
+  margin-top: 34px;
+  list-style: none;
+}
+.main-nav li {
+  margin-left: 36px;
+}
+.main-nav a {
+  color: #23171b;
+}
+.main-nav a:hover {
+  color: #cb305c;
+}
+header {
+  background-color: #dcd3ba;
+}
+.page-header {
+  display: flex;
+  justify-content: space-between;
+}
+.wrapper {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 4%;
+}
+
+.home-content {
+  text-align: center;
+  margin-top: 10%;
+}
+.home-content p {
+  font-size: 1.125rem;
+  margin: 10px 0 42px;
+
+}
+.page-title {
+  font-size: 5rem;
+  font-family: 'sans-serif';
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
+.button {
+  font-size: 1.375rem;
+  background: #517c85;
+  color: #faf2e5;
+  border-radius: 5px;
+  padding: 20px 32px;
+}
+
+.button:hover {
+  background: #c65c57;
+}
+
+.big-bg {
+  background-size: cover;
+  background-position: center top;
+}
+#contact {
+  background-image: url(../images/s41.jpg);
+  background-color: #dcd3ba;
+  background-blend-mode: color-burn;
+  background-blend-mode: overlay;
+  min-height: 90vh;
+}
+#contact .page-title {
+  text-transform: none;
+}
+article {
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+}
+.main-contents {
+  display: flex;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+form div {
+  margin-bottom: 14px;
+}
+label {
+  font-size:1.125rem;
+  margin-bottom: 10px;
+  display: block;
+}
+input[type="text"],
+input[type="email"],
+textarea {
+  background: rgba(255,255,255,.5);
+  border: 1px #fff solid;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 1rem;
+}
+input[type="text"],
+input[type="email"] {
+  width: 100%;
+  max-width: 240px;
+}
+textarea {
+  width: 100%;
+  max-width: 480px;
+  height: 6rem;
+}
+input [type="submit"]{
+  border: none;
+  cursor: pointer;
+  line-height: 1;
+}
+
+footer {
+  background: #8cbab8;
+  text-align: center;
+  margin-top: 0;
+  padding: 30px 0 30px;
+  bottom: 0;
+}
+
+footer p {
+  color: black;
+  font-size: 1.1rem;
+}
