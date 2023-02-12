@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 589.87 246.83">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0077bf;
+      }
+
+      .cls-2 {
+        fill: url(#_新規パターンスウォッチ_1);
+      }
+
+      .cls-3 {
+        stroke-width: 3px;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4, .cls-6 {
+        stroke: #231815;
+      }
+
+      .cls-3, .cls-4, .cls-6, .cls-7 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        stroke-width: 6px;
+      }
+
+      .cls-8 {
+        fill: #2f81b9;
+      }
+
+      .cls-8, .cls-7, .cls-9 {
+        font-family: Impact, Impact;
+        font-size: 131.92px;
+      }
+
+      .cls-10 {
+        fill: #d9d2b8;
+      }
+
+      .cls-6 {
+        stroke-width: 4px;
+      }
+
+      .cls-7 {
+        stroke: #fff;
+        stroke-width: 7px;
+      }
+
+      .cls-9 {
+        fill: #2f82ba;
+      }
+    </style>
+    <pattern id="_新規パターンスウォッチ_1" data-name="新規パターンスウォッチ 1" x="0" y="0" width="4.68" height="4.68" patternTransform="translate(-.99 7.62)" patternUnits="userSpaceOnUse" viewBox="0 0 4.68 4.68">
+      <g>
+        <rect class="cls-5" x="0" y="0" width="4.68" height="4.68"/>
+        <circle class="cls-1" cx="2.34" cy="2.34" r="2.34"/>
+      </g>
+    </pattern>
+  </defs>
+  <circle class="cls-10" cx="97.04" cy="110.12" r="94.12"/>
+  <line class="cls-2" x1="97.59" y1="205.86" x2="97.04" y2="109.36"/>
+  <circle class="cls-4" cx="97.65" cy="111.7" r="94.47"/>
+  <circle class="cls-3" cx="97.65" cy="111.7" r="88.03"/>
+  <line class="cls-6" x1="97.59" y1="11.71" x2="97.59" y2="207"/>
+  <line class="cls-6" x1="195.29" y1="109.36" y2="109.36"/>
+  <line class="cls-6" x1="109.32" y1="71.64" x2="85.85" y2="71.64"/>
+  <line class="cls-6" x1="110.35" y1="64.99" x2="84.82" y2="64.99"/>
+  <line class="cls-6" x1="106.27" y1="79.4" x2="88.91" y2="79.4"/>
+  <line class="cls-6" x1="109.38" y1="154.84" x2="85.92" y2="154.84"/>
+  <line class="cls-6" x1="110.42" y1="161.48" x2="84.88" y2="161.48"/>
+  <line class="cls-6" x1="106.33" y1="147.08" x2="88.97" y2="147.08"/>
+  <text class="cls-7" transform="translate(124.15 121.61)"><tspan x="0" y="0">GOOD</tspan></text>
+  <text class="cls-9" transform="translate(124.15 121.61)"><tspan x="0" y="0">GOOD</tspan></text>
+  <text class="cls-7" transform="translate(297.27 199.72)"><tspan x="0" y="0">GAME</tspan></text>
+  <text class="cls-8" transform="translate(297.27 199.72)"><tspan x="0" y="0">GAME</tspan></text>
+  <circle class="cls-3" cx="97.59" cy="109.36" r="13.62"/>
+  <circle class="cls-3" cx="97.65" cy="109.31" r="8.18"/>
+</svg>

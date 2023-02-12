@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 390.59 390.59">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #0077bf;
+      }
+
+      .cls-3 {
+        fill: url(#_新規パターンスウォッチ_1);
+      }
+
+      .cls-4 {
+        stroke-width: 3px;
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        fill: none;
+      }
+
+      .cls-4, .cls-5, .cls-7 {
+        stroke: #231815;
+      }
+
+      .cls-4, .cls-5, .cls-7, .cls-8 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        stroke-width: 6px;
+      }
+
+      .cls-2, .cls-8 {
+        font-family: Impact, Impact;
+        font-size: 131.92px;
+      }
+
+      .cls-9 {
+        fill: #d9d2b8;
+      }
+
+      .cls-7 {
+        stroke-width: 4px;
+      }
+
+      .cls-8 {
+        stroke: #fff;
+        stroke-width: 7px;
+      }
+    </style>
+    <pattern id="_新規パターンスウォッチ_1" data-name="新規パターンスウォッチ 1" x="0" y="0" width="4.68" height="4.68" patternTransform="translate(-4.71 -4.71)" patternUnits="userSpaceOnUse" viewBox="0 0 4.68 4.68">
+      <g>
+        <rect class="cls-6" x="0" y="0" width="4.68" height="4.68"/>
+        <circle class="cls-1" cx="2.34" cy="2.34" r="2.34"/>
+      </g>
+    </pattern>
+  </defs>
+  <g id="_レイヤー_4" data-name="レイヤー 4">
+    <circle class="cls-9" cx="194.09" cy="196.83" r="188.25"/>
+    <line class="cls-3" x1="195.17" y1="388.3" x2="194.09" y2="195.29"/>
+  </g>
+  <g id="_レイヤー_1" data-name="レイヤー 1">
+    <circle class="cls-5" cx="195.29" cy="196.69" r="188.94"/>
+    <circle class="cls-4" cx="195.29" cy="199.28" r="180.04"/>
+  </g>
+  <g id="_レイヤー_2" data-name="レイヤー 2">
+    <line class="cls-7" x1="195.17" x2="195.17" y2="390.59"/>
+    <line class="cls-7" x1="390.59" y1="195.29" y2="195.29"/>
+    <line class="cls-7" x1="218.63" y1="119.85" x2="171.71" y2="119.85"/>
+    <line class="cls-7" x1="220.71" y1="106.57" x2="169.63" y2="106.57"/>
+    <line class="cls-7" x1="212.53" y1="135.38" x2="177.81" y2="135.38"/>
+    <line class="cls-7" x1="218.76" y1="286.26" x2="171.83" y2="286.26"/>
+    <line class="cls-7" x1="220.83" y1="299.55" x2="169.76" y2="299.55"/>
+    <line class="cls-7" x1="212.66" y1="270.73" x2="177.93" y2="270.73"/>
+  </g>
+  <g id="_レイヤー_3" data-name="レイヤー 3">
+    <circle class="cls-7" cx="195.29" cy="195.29" r="31.1"/>
+    <circle class="cls-4" cx="195.29" cy="195.29" r="17.49"/>
+    <g>
+      <text class="cls-8" transform="translate(49.77 171.64)"><tspan x="0" y="0">GOOD</tspan><tspan x="0" y="145">GAME</tspan></text>
+      <text class="cls-2" transform="translate(49.77 171.64)"><tspan x="0" y="0">GOOD</tspan><tspan x="0" y="145">GAME</tspan></text>
+    </g>
+  </g>
+</svg>
